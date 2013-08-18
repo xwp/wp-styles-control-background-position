@@ -1,0 +1,13 @@
+#customize-controls input.styles-background-position-value {
+	width: 8ex;
+}
+#customize-controls select.styles-background-position-unit-keywords {
+	width: 8ex;
+	min-width: 8ex;
+}
+#customize-controls .background-position-dimension.keyword input.styles-background-position-value {
+	display: none;
+}
+#customize-controls .background-position-dimension.keyword select.styles-background-position-unit-keywords {
+	width: 16ex;
+}
