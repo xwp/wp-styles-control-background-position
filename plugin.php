@@ -46,7 +46,7 @@ class Styles_Control_Background_Position_Plugin {
 			error_log( 'Aborting setup. Styles is not loaded?' );
 			return;
 		}
-		add_action( 'customize_register', array( __CLASS__, 'customize_register' ), 5 );
+		add_action( 'styles_customize_init', array( __CLASS__, 'styles_customize_init' ), 5 );
 		add_action( 'customize_controls_enqueue_scripts',  array( __CLASS__, 'customize_controls_enqueue_scripts' ) );
 	}
 
@@ -55,7 +55,7 @@ class Styles_Control_Background_Position_Plugin {
 	 * Styles looks for class "Styles_Control_Foo_Bar"
 	 * when presented with { type: "foo-bar" } in customize.json
 	 */
-	static public function customize_register(){
+	static public function styles_customize_init(){
 		include dirname( __FILE__ ) . '/inc/styles-control-background-position.php';
 	}
 
