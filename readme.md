@@ -16,6 +16,8 @@ This is a plugin/extension for the [Styles plugin](http://stylesplugin.com/). It
 which can be referenced by that ID in the `type` field of the control defined in your customize.json. It allows you to specify
 the X and Y coordinates separately, allowing lengths of any unit, as well as keywords.
 
+[![Build Status](https://travis-ci.org/x-team/wp-styles-control-background-position.png)](https://travis-ci.org/x-team/wp-styles-control-background-position)
+
 ## Screenshots ##
 
 ### Set pixel X and Y coordinates
