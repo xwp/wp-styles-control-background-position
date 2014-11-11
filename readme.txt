@@ -1,5 +1,5 @@
 === Styles Control: background-position ===
-Contributors:      X-team, westonruter
+Contributors:      xwp, westonruter
 Tags:              styles, customizer, background
 Requires at least: 3.6
 Tested up to:      3.6

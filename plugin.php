@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: Styles Control: background-position
- * Plugin URI: https://github.com/x-team/wp-styles-control-background-position
+ * Plugin URI: https://github.com/xwp/wp-styles-control-background-position
  * Description: Extension for Styles plugin to add a background-position control type
  * Version: 0.1
- * Author: X-Team
- * Author URI: http://x-team.com
+ * Author: XWP
+ * Author URI: https://xwp.co
  */
 
 /**
- * Copyright (c) 2013 X-Team. All rights reserved.
+ * Copyright (c) 2013 XWP. All rights reserved.
  *
  * Released under the GPL license
  * http://www.opensource.org/licenses/gpl-license.php

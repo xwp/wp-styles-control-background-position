@@ -3,20 +3,20 @@
 
 Extension for Styles plugin to add a background-position control type
 
-**Contributors:** [x-team](http://profiles.wordpress.org/x-team), [westonruter](http://profiles.wordpress.org/westonruter)  
+**Contributors:** [xwp](http://profiles.wordpress.org/xwp), [westonruter](http://profiles.wordpress.org/westonruter)  
 **Tags:** [styles](http://wordpress.org/plugins/tags/styles), [customizer](http://wordpress.org/plugins/tags/customizer), [background](http://wordpress.org/plugins/tags/background)  
 **Requires at least:** 3.6  
 **Tested up to:** 3.6  
 **Stable tag:** trunk (master)  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
+[![Build Status](https://travis-ci.org/xwp/wp-styles-control-background-position.png?branch=master)](https://travis-ci.org/xwp/wp-styles-control-background-position) 
+
 ## Description ##
 
 This is a plugin/extension for the [Styles plugin](http://stylesplugin.com/). It adds a new `background-position` control type
 which can be referenced by that ID in the `type` field of the control defined in your customize.json. It allows you to specify
 the X and Y coordinates separately, allowing lengths of any unit, as well as keywords.
-
-[![Build Status](https://travis-ci.org/x-team/wp-styles-control-background-position.png)](https://travis-ci.org/x-team/wp-styles-control-background-position)
 
 ## Screenshots ##
 
